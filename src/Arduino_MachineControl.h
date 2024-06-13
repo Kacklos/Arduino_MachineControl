@@ -58,7 +58,7 @@ public:
 		for (int i=0; i<3; i++) {
 			ch_sel[i] = (i == channel ? 1 : 0);
 		}
-		delay(150);
+		delay(1);
 	}
 
 	/**
